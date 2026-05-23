@@ -1,0 +1,3 @@
+"E:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\DataStruct.dir/objects.a
+D:\desktop\code\dev\mingw64\bin\ar.exe qc CMakeFiles\DataStruct.dir/objects.a @CMakeFiles\DataStruct.dir\objects1.rsp
+D:\desktop\code\dev\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\DataStruct.dir/objects.a -Wl,--no-whole-archive -o DataStruct.exe -Wl,--out-implib,libDataStruct.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\DataStruct.dir\linkLibs.rsp

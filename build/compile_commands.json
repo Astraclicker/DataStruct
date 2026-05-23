@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/desktop/code/clion/DataStruct/build",
+  "command": "D:\\desktop\\code\\dev\\mingw64\\bin\\g++.exe  @CMakeFiles/DataStruct.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\DataStruct.dir\\src\\main.cpp.obj -c D:\\desktop\\code\\clion\\DataStruct\\src\\main.cpp",
+  "file": "D:/desktop/code/clion/DataStruct/src/main.cpp",
+  "output": "CMakeFiles/DataStruct.dir/src/main.cpp.obj"
+}
+]
