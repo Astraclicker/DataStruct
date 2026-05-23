@@ -1,3 +1,0 @@
-D:/desktop/code/clion/DataStruct/build/CMakeFiles/DataStruct.dir
-D:/desktop/code/clion/DataStruct/build/CMakeFiles/edit_cache.dir
-D:/desktop/code/clion/DataStruct/build/CMakeFiles/rebuild_cache.dir
